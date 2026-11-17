@@ -1,0 +1,6 @@
+stage,rows,columns
+raw_dirty,154,6
+after_duplicates,150,6
+cleaned,148,6
+train,118,7
+test,30,7
